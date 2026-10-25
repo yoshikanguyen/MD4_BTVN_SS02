@@ -1,0 +1,14 @@
+// Lấy danh sách tất cả nhân viên (get)
+/api/employees
+
+// Lấy thông tin một nhân viên theo ID (get)
+/api/employees/{id}
+
+// Tạo mới một nhân viên (post)
+/api/employees
+
+// Cập nhật thông tin nhân viên (put)
+/api/employees/{id}
+
+// Xóa một nhân viên (delete)
+/api/employees/{id}
